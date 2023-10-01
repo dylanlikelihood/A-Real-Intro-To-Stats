@@ -10,7 +10,7 @@ Author: Dylan Armbruster
   Consider delving into subjects such as Calculus, Linear Algebra, Proof
   Writing, and Real Analysis to deepen your statistical knowledge.
 
-## Recommended Guide
+## Recommended Path:
 
 1.  [Statistics by David
     Freedman](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728/ref=sr_1_1?crid=5NI68XVXP3ZK&keywords=statistics+david+freedman&qid=1650668759&sprefix=statistics+dav%2Caps%2C133&sr=8-1)
@@ -35,19 +35,19 @@ Author: Dylan Armbruster
   resource for anyone seeking to gain a deeper understanding of
   mathematical methods in statistics. Solutions to the odd number
   questions are included.
-
-### Planning Experiments
+## Reading List:
+### Planning Experiments:
 
 - [Statistics for Experimenters: Design, Innovation, and Discovery, 2nd
   Edition](https://www.amazon.com/Statistics-Experimenters-Design-Innovation-Discovery/dp/0471718130/ref=sr_1_7?crid=3YHELNIIR4ZZ&keywords=george+box&qid=1650666248&s=books&sprefix=george+box%2Cstripbooks%2C129&sr=1-7)
   - The math pre-recs are pretty low. Comparable to the Freedman book
 
-### R Programming
+### R Programming:
 
 - [The Art of R Programming: A Tour of Statistical Software
   Design](https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843/ref=sr_1_8?keywords=r+programming&qid=1678071699&sprefix=R+Pr%2Caps%2C158&sr=8-8)
 
-### Bayesian Statistics
+### Bayesian Statistics:
 
 - [Bayesian Statistics the Fun Way: Understanding Statistics and
   Probability with Star Wars, LEGO, and Rubber
@@ -60,7 +60,7 @@ Author: Dylan Armbruster
     learning some of the basics in R. You could read this after the
     first Freedman book. The book is very motivating IMO!)
 
-### Probability
+### Probability:
 
 - [An Introduction to Probability and Inductive
   Logic](https://www.amazon.com/Introduction-Probability-Inductive-Logic/dp/0521775019/ref=sr_1_1?crid=2FTWQME26MYFL&keywords=introduction+to+probability+ian+hacking&qid=1650669212&sprefix=introduction+to+probabilty+ian+hacking%2Caps%2C114&sr=8-1)
@@ -72,7 +72,7 @@ Author: Dylan Armbruster
     Videos](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
   - <https://projects.iq.harvard.edu/stat110/home>
 
-### Mathematical Statistics
+### Mathematical Statistics:
 
 - [Mathematical Methods in Statistics a
   Workbook](https://www.amazon.com/Mathematical-Methods-Statistics-Workbook-Freedman/dp/0393952231/ref=sr_1_1)
@@ -92,12 +92,12 @@ Author: Dylan Armbruster
     probability. But it does assume they know calculus. I recommend
     trying out the book until you get stuck.
 
-### Applied Linear Regression
+### Applied Linear Regression:
 
 - [Applied Linear Regression
   Models](https://www.amazon.com/Applied-Linear-Regression-Models-Michael/dp/0072386916/ref=sr_1_2?crid=JDFSBZ159MH2&keywords=Applied+Linear+Regression&qid=1678685083&sprefix=applied+linear+regression%2Caps%2C154&sr=8-2)
 
-### Other Intro To Statistics Texts I Approve Of
+### Other Intro To Statistics Texts I Approve Of:
 
 - [Basic Statistics: Understanding Conventional Methods and Modern
   Insights(More math
@@ -110,7 +110,7 @@ Author: Dylan Armbruster
   non-technical statistics
   text)](https://www.amazon.com/gp/product/0241258766/ref=ox_sc_saved_image_5?smid=A3TJVJMBQL014A&psc=1)
 
-### Influencial/Interesting Papers, Blog Posts, Or Books
+### Influencial/Interesting Papers, Blog Posts, Or Books:
 
 #### Papers:
 
