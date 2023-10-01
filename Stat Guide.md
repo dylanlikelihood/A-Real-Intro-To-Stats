@@ -148,7 +148,7 @@ Author: Dylan Armbruster
 - [The Lady Tasting Tea: How Statistics Revolutionized Science in the
   Twentieth
   Century](https://www.amazon.com/Lady-Tasting-Tea-Statistics-Revolutionized/dp/0805071342/ref=sr_1_1?crid=33RAJU3ERXO5&keywords=The+Lady+Tasting+Tea&qid=1678685143&sprefix=the+lady+tasting+tea%2Caps%2C145&sr=8-1)
-  - Causal Read Very Enjoyable!
+  - Casual Read Very Enjoyable!
 - [Logic of Statistical
   Inference](https://www.amazon.com/Statistical-Inference-Cambridge-Philosophy-Classics/dp/1316508145/ref=sr_1_8?crid=3NDECWX83USIR&keywords=Ian+Hacking&qid=1678684998&sprefix=ian+hackin%2Caps%2C152&sr=8-8)
 - [Improving Your Statistical
