@@ -1,6 +1,6 @@
 A Real Beginners Reading List To An Introduction To Statistics
 ================
-Dylan Armbruster
+Author: Dylan Armbruster
 
 ## Note to reader:
 
