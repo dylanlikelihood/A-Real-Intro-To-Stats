@@ -129,7 +129,9 @@ Author: Dylan Armbruster
   al](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
 - [Must We Randomize Our Experiment? G.
   Box](https://williamghunter.net/george-box-articles/must-we-randomize-our-experiment)
-
+- [Null Hypothesis Significance Testing Defended and Calibrated by Bayesian Model Checking](https://doi.org/10.1080/00031305.2019.1699443)
+- [Defending the P-value](https://doi.org/10.48550/arXiv.2009.02099)
+- [Frequentist statistical inference without repeated sampling](https://doi.org/10.1007/s11229-022-03560-x)
 #### Blog Posts
 
 - [S. Senn: Randomisation is not about balance, nor about homogeneity
@@ -137,6 +139,7 @@ Author: Dylan Armbruster
   Post)](https://errorstatistics.com/2020/04/20/s-senn-randomisation-is-not-about-balance-nor-about-homogeneity-but-about-randomness-guest-post/)
 - [Mathematics and statistics Resources and
   Workbooks](https://www.sydney.edu.au/students/mathematics-statistics.html)
+- [statisticool](https://www.statisticool.com/mathstat/objectionstofrequentism.html)
 
 #### Books
 
