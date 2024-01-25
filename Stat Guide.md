@@ -33,7 +33,8 @@ I found these two books by Freedman to do a much better job than other introduct
   resource for anyone seeking to gain a deeper understanding of
   mathematical methods in statistics. Solutions to the odd number
   questions are included.
-## Reading List For Other Topics With Regards To Statistics:
+
+# Reading List For Other Topics With Regards To Statistics:
 
 ### Planning Experiments(Sadly seems to be going away):
 
