@@ -4,7 +4,7 @@ Author: Dylan Armbruster
 
 ## Note to reader:
 - This Reading List Started out as just a basic list of books that I found to be better than others on Amazon. Continuing my education in statistics though has brought me to including other helpful resources and a new perspective. There are two books that the causal reader should read, but for everyone else I would suggest finishing your calc series as soon as possible and pick up a more mathematically rigorous text book(See Mathematical Statistics Section). 
-- If you plan to do a statistics bachelors, you will find that a lot of your classes are pretty similiar in content from the previous classes, only the mathematical background assumption is higher. Given this, it makes sense to prioritize math classes. The higher level books/classes ofer far more than what you'll get from lower division book/classes(with some exceptions).
+- If you plan to do a statistics bachelors, you will find that a lot of your classes are pretty similiar in content from the previous classes, only the mathematical background assumption is higher. Given this, it makes sense to prioritize math classes. The higher level books/classes ofer far more than what you'll get from lower division book/classes(with some exceptions). If you thought you could avoid mathematics by going down the statistics route, you're mistaken! Don't make this mistake. You're going to have to be comfortable with math and programming. 
 - Consider delving into subjects such as Calculus, Linear Algebra, Proof
   Writing, and Real Analysis to deepen your ability to read higher level stat/probability books.
 
@@ -42,7 +42,7 @@ I found these two books by Freedman to do a much better job than other introduct
   Edition](https://www.amazon.com/Statistics-Experimenters-Design-Innovation-Discovery/dp/0471718130/ref=sr_1_7?crid=3YHELNIIR4ZZ&keywords=george+box&qid=1650666248&s=books&sprefix=george+box%2Cstripbooks%2C129&sr=1-7)
   - The math pre-recs are pretty low. Comparable to the Freedman book
 
-## Programming:
+### Programming:
 #### R Programming
 
 - [The Art of R Programming: A Tour of Statistical Software
@@ -92,6 +92,11 @@ I found these two books by Freedman to do a much better job than other introduct
 
 - [Applied Linear Regression
   Models](https://www.amazon.com/Applied-Linear-Regression-Models-Michael/dp/0072386916/ref=sr_1_2?crid=JDFSBZ159MH2&keywords=Applied+Linear+Regression&qid=1678685083&sprefix=applied+linear+regression%2Caps%2C154&sr=8-2)
+
+### Machine Learning
+[An Introduction to Statistical Learning: with Applications in Python](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/3031387465/ref=sr_1_1?crid=P7KRDHCY140G&keywords=Statistical+Learning&qid=1706199996&sprefix=statistical+learni%2Caps%2C145&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
+
+[Probabilistic Machine Learning: An Introduction (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Probabilistic-Machine-Learning-Introduction-Computation/dp/0262046822/ref=sr_1_4?crid=23C4EHU2K2HWF&keywords=probabilistic+machine+learning&qid=1706200030&sprefix=Proobabalistic+%2Caps%2C152&sr=8-4&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0)
 
 ### Other Intro To Statistics Texts I Approve Of:
 
