@@ -41,7 +41,7 @@ I found these two books by Freedman to do a much better job than other introduct
   Edition](https://www.amazon.com/Statistics-Experimenters-Design-Innovation-Discovery/dp/0471718130/ref=sr_1_7?crid=3YHELNIIR4ZZ&keywords=george+box&qid=1650666248&s=books&sprefix=george+box%2Cstripbooks%2C129&sr=1-7)
   - The math pre-recs are pretty low. Comparable to the Freedman book
 
-### Programming:
+## Programming:
 #### R Programming
 
 - [The Art of R Programming: A Tour of Statistical Software
