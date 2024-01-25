@@ -1,4 +1,4 @@
-A Real Beginners Reading List To An Introduction To Statistics
+An Early Statistician's Reading List
 ================
 Author: Dylan Armbruster
 
