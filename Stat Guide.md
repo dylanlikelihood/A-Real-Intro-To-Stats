@@ -4,14 +4,12 @@ Author: Dylan Armbruster
 
 ## Note to reader:
 
-- This reading list provides a structured introduction to statistics,
-  designed with a minimal mathematical prerequisite. Upon completion, it
-  is recommended to further bolster your mathematical foundation.
-  Consider delving into subjects such as Calculus, Linear Algebra, Proof
-  Writing, and Real Analysis to deepen your statistical knowledge.
+- If you plan to do a statistics bachelors, you will find that a lot of your classes are pretty similiar in content from the previous classes, only the mathematical background assumption is higher. Given this, it makes sense to prioritize math classes. The higher level books/classes ofer far more than what you'll get from lower division book/classes(with some exceptions).
+- Consider delving into subjects such as Calculus, Linear Algebra, Proof
+  Writing, and Real Analysis to deepen your ability to read higher level stat/probability books.
 
-## Recommended Path:
-
+## Recommended Path For The Casual Reader (Baby Freedman):
+I found these two books by Freedman to do a much better job than other introductory statistics books at this level. For example, how to properly understand Standard Deviation or R^2. 
 1.  [Statistics by David
     Freedman](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728/ref=sr_1_1?crid=5NI68XVXP3ZK&keywords=statistics+david+freedman&qid=1650668759&sprefix=statistics+dav%2Caps%2C133&sr=8-1)
 
