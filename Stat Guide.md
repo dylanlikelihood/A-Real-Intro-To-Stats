@@ -3,7 +3,7 @@ A Real Beginners Reading List To An Introduction To Statistics
 Author: Dylan Armbruster
 
 ## Note to reader:
-
+- This Reading List Started out as just a basic list of books that I found to be better than others on Amazon. Continuing my education in statistics though has brought me to including other helpful resources and a new perspective. There are two books that the causal reader should read, but for everyone else I would suggest finishing your calc series as soon as possible and pick up a more mathematically rigorous text book(See Mathematical Statistics Section). 
 - If you plan to do a statistics bachelors, you will find that a lot of your classes are pretty similiar in content from the previous classes, only the mathematical background assumption is higher. Given this, it makes sense to prioritize math classes. The higher level books/classes ofer far more than what you'll get from lower division book/classes(with some exceptions).
 - Consider delving into subjects such as Calculus, Linear Algebra, Proof
   Writing, and Real Analysis to deepen your ability to read higher level stat/probability books.
@@ -33,17 +33,24 @@ I found these two books by Freedman to do a much better job than other introduct
   resource for anyone seeking to gain a deeper understanding of
   mathematical methods in statistics. Solutions to the odd number
   questions are included.
-## Reading List:
-### Planning Experiments:
+## Reading List For Other Topics With Regards To Statistics:
+
+### Planning Experiments(Sadly seems to be going away):
 
 - [Statistics for Experimenters: Design, Innovation, and Discovery, 2nd
   Edition](https://www.amazon.com/Statistics-Experimenters-Design-Innovation-Discovery/dp/0471718130/ref=sr_1_7?crid=3YHELNIIR4ZZ&keywords=george+box&qid=1650666248&s=books&sprefix=george+box%2Cstripbooks%2C129&sr=1-7)
   - The math pre-recs are pretty low. Comparable to the Freedman book
 
-### R Programming:
+### Programming:
+#### R Programming
 
 - [The Art of R Programming: A Tour of Statistical Software
   Design](https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843/ref=sr_1_8?keywords=r+programming&qid=1678071699&sprefix=R+Pr%2Caps%2C158&sr=8-8)
+
+#### Python
+- Note: It might be a good idea to prioritize python over R because [of](https://www.infoworld.com/article/3668252/rstudio-changes-name-to-posit-expands-focus-to-include-python-and-vs-code.html)
+- [Murach's Python Programming](https://www.amazon.com/Murachs-Python-Programming-Michael-Urban/dp/1890774979)
+- [Murach's Python for Data Analysis]([https://www.amazon.com/Murachs-Python-Programming-Michael-Urban/dp/1890774979](https://www.amazon.com/Murachs-Python-Analysis-Scott-McCoy/dp/1943872767/ref=pd_lpo_sccl_2/147-6290256-4438431?pd_rd_w=TRNaY&content-id=amzn1.sym.1ad2066f-97d2-4731-9356-36b3edf1ae04&pf_rd_p=1ad2066f-97d2-4731-9356-36b3edf1ae04&pf_rd_r=DDTYWNAZ0TH70A7BTV01&pd_rd_wg=VEFN5&pd_rd_r=308b20b5-52a4-4444-ac47-79062d8c3fb6&pd_rd_i=1943872767&psc=1))
 
 ### Bayesian Statistics:
 
@@ -71,17 +78,6 @@ I found these two books by Freedman to do a much better job than other introduct
   - <https://projects.iq.harvard.edu/stat110/home>
 
 ### Mathematical Statistics:
-
-- [Mathematical Methods in Statistics a
-  Workbook](https://www.amazon.com/Mathematical-Methods-Statistics-Workbook-Freedman/dp/0393952231/ref=sr_1_1)
-  - You will be exposed to proofs in this. If you find yourself
-    struggiling with those, I recommend this [How to Prove It: A
-    Structured
-    Approach](https://www.amazon.com/How-Prove-Structured-Daniel-Velleman/dp/1108439535/ref=sr_1_1?crid=2FL6Y1PU2EKQ2&keywords=how+to+prove+it&qid=1660402387&sprefix=how+to+prove+it%2Caps%2C175&sr=8-1)
-- [Statistical Thinking from Scratch: A Primer for
-  Scientists](https://www.amazon.com/Statistical-Thinking-Scratch-Primer-Scientists/dp/0198827636/ref=sr_1_5?crid=1Z8XXEQN46AU9&keywords=Statistical+Thinking&qid=1669095171&sprefix=statistical+thinkin%2Caps%2C136&sr=8-5&ufe=app_do%3Aamzn1.fos.08f69ac3-fd3d-4b88-bca2-8997e41410bb)
-  - This one includes a primer on the math that will be used within the
-    book. The author gudies you through the book using R.
 - [Mathematical Statistics with Applications, 7th
   Edition](https://www.amazon.com/Mathematical-Statistics-Applications-Dennis-Wackerly/dp/0495110817/ref=sr_1_7?crid=SN6G9FPMBBMP&keywords=mathematical+statistics+wacklery&qid=1678070894&sprefix=mathematical+statsistics+wacklery%2Caps%2C152&sr=8-7)
   - [There is a solution manual for
@@ -89,6 +85,7 @@ I found these two books by Freedman to do a much better job than other introduct
   - This book doesn’t assume you know anything about statistics or
     probability. But it does assume they know calculus. I recommend
     trying out the book until you get stuck.
+  - [Statistical Inference](https://www.amazon.com/Statistical-Inference-George-Casella/dp/8131503941/ref=sr_1_1?crid=ZY2IF8H1EWLL&keywords=statistical+inference+casella+and+berger&qid=1706199746&sprefix=Statistical+Inference%2Caps%2C143&sr=8-1)
 
 ### Applied Linear Regression:
 
@@ -102,8 +99,6 @@ I found these two books by Freedman to do a much better job than other introduct
   heavy)](https://www.amazon.com/Basic-Statistics-Understanding-Conventional-Insights/dp/0195315103/ref=sr_1_1?crid=24D9MLWAPJ89X&keywords=basic+statistics+rand+wilcox&qid=1650829258&sprefix=basic+statistics+rand+wilcox%2Caps%2C146&sr=8-1)
 - [Introductory Statistics by
   OpenStax](https://openstax.org/details/books/introductory-statistics)
-- [Statistics in Plain
-  English](https://www.amazon.com/Statistics-Course-Pack-Set-Op/dp/1138838349/ref=sr_1_1?crid=2WTWS009GA5BE&keywords=Statistics+in+Plain+English&qid=1650668986&s=books&sprefix=statistics+in+plain+english%2Cstripbooks%2C118&sr=1-1)
 - [The Art of Statistics: Learning from Data(This text is a
   non-technical statistics
   text)](https://www.amazon.com/gp/product/0241258766/ref=ox_sc_saved_image_5?smid=A3TJVJMBQL014A&psc=1)
