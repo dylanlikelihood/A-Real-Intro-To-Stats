@@ -13,8 +13,6 @@ While a strong foundation in mathematics is essential for success in Statistics,
 
 While some students with a less enthusiastic relationship with traditional math may find Statistics initially appealing, a solid understanding of mathematical concepts remains crucial. Statistical methods rely heavily on mathematical principles, and overcoming any apprehension towards math will be beneficial in the long run.
 
-If you find yourself struggling with certain mathematical concepts relevant to statistics, there are many resources available to help. Tutoring services, online courses, and textbooks specifically geared towards statistical applications of math can be invaluable tools.
-
 Remember, a strong work ethic and a willingness to learn are just as important as your initial comfort level. Embrace the challenge, and you'll find the rewards of statistical analysis well worth the effort.
 
 ## Recommended Starting Path For The Casual Reader(High School Level Math. No Calculus Required):
