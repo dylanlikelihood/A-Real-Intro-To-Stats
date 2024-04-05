@@ -2,13 +2,22 @@ An Early Statistician's Reading List
 ================
 Author: Dylan Armbruster
 
-## Note to reader:
-- This Reading List Started out as just a basic list of books that I found to be better than others on Amazon. Continuing my education in statistics though has brought me to including other helpful resources and a new perspective. There are two books that the causal reader should read, but for everyone else I would suggest finishing your calc series as soon as possible and pick up a more mathematically rigorous text book(See Mathematical Statistics Section). 
-- If you plan to do a statistics bachelors, you will find that a lot of your classes are pretty similiar in content from the previous classes, only the mathematical background assumption is higher. Given this, it makes sense to prioritize math classes. The higher level books/classes ofer far more than what you'll get from lower division book/classes(with some exceptions). If you thought you could avoid mathematics by going down the statistics route, you're mistaken! Don't make this mistake. You're going to have to be comfortable with math and programming. 
-- Consider delving into subjects such as Calculus, Linear Algebra, Proof
-  Writing, and Real Analysis to deepen your ability to read higher level stat/probability books.
+## Mission Statement:
+This curated reading list is intended for individuals with a burgeoning interest in the fields of statistics and probability.  It caters specifically to those who, like the compiler, possess a naturally inquisitive nature and experience knowledge acquisition in sporadic bursts.
 
-## Recommended Path For The Casual Reader (Baby Freedman):
+Drawing upon personal exploration and the insights gleaned from fellow students of statistics, this list meticulously identifies foundational texts that serve as ideal entry points for those embarking on their statistical voyage.  The compiler expresses sincere gratitude to these esteemed colleagues whose guidance proved invaluable in this endeavor.
+
+To my fellow aspiring Statisticians:
+
+While a strong foundation in mathematics is essential for success in Statistics, it's important to differentiate between the two disciplines. Statistics focuses on interpreting data and drawing meaningful conclusions, while mathematics emphasizes theoretical calculations and proofs.
+
+While some students with a less enthusiastic relationship with traditional math may find Statistics initially appealing, a solid understanding of mathematical concepts remains crucial. Statistical methods rely heavily on mathematical principles, and overcoming any apprehension towards math will be beneficial in the long run.
+
+If you find yourself struggling with certain mathematical concepts relevant to statistics, there are many resources available to help. Tutoring services, online courses, and textbooks specifically geared towards statistical applications of math can be invaluable tools.
+
+Remember, a strong work ethic and a willingness to learn are just as important as your initial comfort level. Embrace the challenge, and you'll find the rewards of statistical analysis well worth the effort.
+
+## Recommended Starting Path For The Casual Reader(High School Level Math. No Calculus Required):
 I found these two books by Freedman to do a much better job than other introductory statistics books at this level. For example, how to properly understand Standard Deviation or R^2. 
 1.  [Statistics by David
     Freedman](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728/ref=sr_1_1?crid=5NI68XVXP3ZK&keywords=statistics+david+freedman&qid=1650668759&sprefix=statistics+dav%2Caps%2C133&sr=8-1)
