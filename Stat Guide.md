@@ -48,8 +48,11 @@ I found these two books by Freedman to do a much better job than other introduct
 - [Statistics for Experimenters: Design, Innovation, and Discovery, 2nd
   Edition](https://www.amazon.com/Statistics-Experimenters-Design-Innovation-Discovery/dp/0471718130/ref=sr_1_7?crid=3YHELNIIR4ZZ&keywords=george+box&qid=1650666248&s=books&sprefix=george+box%2Cstripbooks%2C129&sr=1-7)
   - The math pre-recs are pretty low. Comparable to the Freedman book
-- [Introduction to Randomized Controlled Clinical Trials](https://www.amazon.com/dp/1584886242/?coliid=I26JXKAQNLT30V&colid=1COQOURYYNDZA&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+- [Introduction to Randomized Controlled Clinical Trials by John N.S. Matthews](https://www.amazon.com/dp/1584886242/?coliid=I26JXKAQNLT30V&colid=1COQOURYYNDZA&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 - Some DOE books only show you how to analyze the results of an experiment. This book has scrached my itch about the actual deisng of an Experiment and what that entials.
+
+- [Statistical Issues in Drug Development](https://www.amazon.com/Statistical-Issues-Drug-Development-Stephen/dp/0470018771/ref=sr_1_4?crid=2X2RIDN061TVU&dib=eyJ2IjoiMSJ9.jO27wZ-xxgFg4fKhXlWkeyJGKQ70PjSde3v0YXiG8Fc8hQo9HH63UeJiFRiIVvEB9AxzHRQeROBrORZaIzfo_ZzJ_ZBDY4yqnh57VxTF7pj9mZmksHRl6wjv0i7k0RQ6-5XenZDQCDjtsNqbv8WxLoujb-HCgsfwj0KTadPuwtH93iLf_8qCEZGMffF4VdNdrrlwNWGUOj2MAzee9iUsvOXZX_GzFj_vh_mwbp4Izks.yY-dDCQPMMkYuilXiND38pZmBtORbHlai62qPswy1Ss&dib_tag=se&keywords=stephen+senn+books&qid=1720486480&s=books&sprefix=stepen+senn+book%2Cstripbooks%2C131&sr=1-4)
+- Another book in the same scope of providing information on how to set up an experiment.
 
 ### Programming:
 #### R Programming
@@ -163,13 +166,14 @@ I found these two books by Freedman to do a much better job than other introduct
   Century](https://www.amazon.com/Lady-Tasting-Tea-Statistics-Revolutionized/dp/0805071342/ref=sr_1_1?crid=33RAJU3ERXO5&keywords=The+Lady+Tasting+Tea&qid=1678685143&sprefix=the+lady+tasting+tea%2Caps%2C145&sr=8-1)
   - Casual Read Very Enjoyable!
 - [Logic of Statistical
-  Inference](https://www.amazon.com/Statistical-Inference-Cambridge-Philosophy-Classics/dp/1316508145/ref=sr_1_8?crid=3NDECWX83USIR&keywords=Ian+Hacking&qid=1678684998&sprefix=ian+hackin%2Caps%2C152&sr=8-8)
+  Inference by Ian Hacking and Jan-Willem Romeijn](https://www.amazon.com/Statistical-Inference-Cambridge-Philosophy-Classics/dp/1316508145/ref=sr_1_8?crid=3NDECWX83USIR&keywords=Ian+Hacking&qid=1678684998&sprefix=ian+hackin%2Caps%2C152&sr=8-8)
 - [Improving Your Statistical
   Inferences](https://lakens.github.io/statistical_inferences/#introduction)
 - [The Design of Experiments By R.A
   Fisher](https://www.amazon.com/Design-Experiments-Ronald-Fisher/dp/0028446909)
 - [The Book of Why: The New Science of Cause and
   Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1696046437&sr=1-1)
+- [Fisher, Neyman, and the Creation of Classical Statistics by Eric L. Lehmann](https://www.amazon.com/Fisher-Neyman-Creation-Classical-Statistics/dp/1441994998/ref=sr_1_2?crid=52YQXT7V7DEP&dib=eyJ2IjoiMSJ9.sachJPQB7GaiWao22ayKrj93Y777Z-ob5je_OPboWlcJ8UvMhIeckyS8pSQC8DVvj4ihWgQO5bQJZpVXhnBxYVlFmtqTYDWSR_gnyRAPx9FSGnWpMkBrC_XAy5g9wZUbFlHEKJnrLQ12vHptppxHpnwpw2HI8jAl6bCSuMi55x8Ssm4SsAxMOoENl9HjL2mMZxdo7CD55U87ffrm_AJ3sjaXwuUDNosPDVEM34n0s_U.sjfX_ldbpBuMGOMfUvSRMitxqYqpsfqZuU6-cLQGowI&dib_tag=se&keywords=ronald+fisher&qid=1720486674&s=books&sprefix=ronald+fish%2Cstripbooks%2C137&sr=1-2)
 
 ### Blogs/Websites
 
