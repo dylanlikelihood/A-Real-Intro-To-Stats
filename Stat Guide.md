@@ -43,11 +43,13 @@ I found these two books by Freedman to do a much better job than other introduct
 
 # Reading List For Other Topics With Regards To Statistics:
 
-### Planning Experiments(Sadly seems to be going away):
+### DOE(Design of Experiments) and Design Of Clinical Trials:
 
 - [Statistics for Experimenters: Design, Innovation, and Discovery, 2nd
   Edition](https://www.amazon.com/Statistics-Experimenters-Design-Innovation-Discovery/dp/0471718130/ref=sr_1_7?crid=3YHELNIIR4ZZ&keywords=george+box&qid=1650666248&s=books&sprefix=george+box%2Cstripbooks%2C129&sr=1-7)
   - The math pre-recs are pretty low. Comparable to the Freedman book
+- [Introduction to Randomized Controlled Clinical Trials](https://www.amazon.com/dp/1584886242/?coliid=I26JXKAQNLT30V&colid=1COQOURYYNDZA&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
+- Some DOE books only show you how to analyze the results of an experiment. This book has scrached my itch about the actual deisng of an Experiment and what that entials.
 
 ### Programming:
 #### R Programming
@@ -99,6 +101,8 @@ I found these two books by Freedman to do a much better job than other introduct
 
 - [Applied Linear Regression
   Models](https://www.amazon.com/Applied-Linear-Regression-Models-Michael/dp/0072386916/ref=sr_1_2?crid=JDFSBZ159MH2&keywords=Applied+Linear+Regression&qid=1678685083&sprefix=applied+linear+regression%2Caps%2C154&sr=8-2)
+
+- [Statistical Regression and Classification: From Linear Models to Machine Learning](https://www.amazon.com/dp/1498710913/?coliid=I1MZUF46EG98TX&colid=1COQOURYYNDZA&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)
 
 ### Machine Learning
 [An Introduction to Statistical Learning: with Applications in Python](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/3031387465/ref=sr_1_1?crid=P7KRDHCY140G&keywords=Statistical+Learning&qid=1706199996&sprefix=statistical+learni%2Caps%2C145&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc)
